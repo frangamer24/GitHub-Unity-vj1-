@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 7c7c5ad994fccf748a3dae2dd8904cef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3444469486586155741
+    second: Comprador_0
+  - first:
+      213: 6667978782984697820
+    second: Comprador_1
+  - first:
+      213: 7446749779815555270
+    second: Comprador_2
+  - first:
+      213: -1938829364725225840
+    second: Comprador_3
+  - first:
+      213: 5835332448923346949
+    second: Comprador_4
+  - first:
+      213: -2083638604461151094
+    second: Comprador_5
+  - first:
+      213: -3559674623932825418
+    second: Comprador_6
+  - first:
+      213: -5600714283294959223
+    second: Comprador_7
+  - first:
+      213: -917261363568706596
+    second: Comprador_8
+  - first:
+      213: -2983318436182001822
+    second: Comprador_9
+  - first:
+      213: 9213122835831889907
+    second: Comprador_10
+  - first:
+      213: -8142674091276143237
+    second: Comprador_11
+  - first:
+      213: -7091526484413334571
+    second: Comprador_12
+  - first:
+      213: 4563857456094480872
+    second: Comprador_13
+  - first:
+      213: 9054416082290341515
+    second: Comprador_14
+  - first:
+      213: -2637453679926627220
+    second: Comprador_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Comprador_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 317
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2d3ab9fb63dcf20800000000000000
+      internalID: 3444469486586155741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 317
+        width: 77
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7f4a9ef5b698c50800000000000000
+      internalID: 6667978782984697820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 317
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0ef1d587b285760800000000000000
+      internalID: 7446749779815555270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 317
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096e47317f4e715e0800000000000000
+      internalID: -1938829364725225840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 317
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508e26402f34bf050800000000000000
+      internalID: 5835332448923346949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 165
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c6dc49abd6513e0800000000000000
+      internalID: -2083638604461151094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 165
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0038c1ace799ec0800000000000000
+      internalID: -3559674623932825418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 165
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895fbf78044642b0800000000000000
+      internalID: -5600714283294959223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 165
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbfb4256ab3543f0800000000000000
+      internalID: -917261363568706596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 165
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2677f7740bf1996d0800000000000000
+      internalID: -2983318436182001822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 165
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff9ccde7669bdf70800000000000000
+      internalID: 9213122835831889907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 23
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7575b34e096ffe80800000000000000
+      internalID: -8142674091276143237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 22
+        width: 88
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbb4452c36d59d90800000000000000
+      internalID: -7091526484413334571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 23
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9870c0d24165f30800000000000000
+      internalID: 4563857456094480872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 22
+        width: 84
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86ff79547fb7ad70800000000000000
+      internalID: 9054416082290341515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Comprador_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 15
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c643d681ad1e56bd0800000000000000
+      internalID: -2637453679926627220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Comprador_0: 3444469486586155741
+      Comprador_1: 6667978782984697820
+      Comprador_10: 9213122835831889907
+      Comprador_11: -8142674091276143237
+      Comprador_12: -7091526484413334571
+      Comprador_13: 4563857456094480872
+      Comprador_14: 9054416082290341515
+      Comprador_15: -2637453679926627220
+      Comprador_2: 7446749779815555270
+      Comprador_3: -1938829364725225840
+      Comprador_4: 5835332448923346949
+      Comprador_5: -2083638604461151094
+      Comprador_6: -3559674623932825418
+      Comprador_7: -5600714283294959223
+      Comprador_8: -917261363568706596
+      Comprador_9: -2983318436182001822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
