@@ -61,7 +61,7 @@ public class TiendaManager : MonoBehaviour
 
     private void OnMouseDown()
     {
-       /* 
+        /*
         if (panelGestion.activeSelf)
         {
             panelGestion.SetActive(false);
