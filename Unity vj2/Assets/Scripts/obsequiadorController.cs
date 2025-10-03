@@ -12,8 +12,8 @@ public class ChiperoController : MonoBehaviour
         InvokeRepeating("GenerarChipas", 1, 1);
     }
 
-    private void GenerarChipas()
+    /*private void GenerarChipas()
     {
         tiendaManager.SumarChipa(1);
-    }
+    }*/
 }
